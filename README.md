@@ -47,6 +47,8 @@ To make deployment simple and portable, we have containerised the different comp
 
 The deployment have been tested on macOS (Docker desktop), linux (ubuntu).
 
+Check out our [demo video here](https://drive.google.com/file/d/1pw8z5ifYgSoxTTeJI1tmIsg45o8nRcru/view)
+
 NGWAF is created by [@yupengfei](https://github.com/FA-PengFei), [@zhangbosen](https://github.com/duemaster), [@matthewng](https://github.com/matthewng1996) and [@elizabethlim](https://github.com/elizabeth-dsaid)
 
 Special shoutout to [@ruinahkoh](https://github.com/ruinahkoh) for her contributions to the initial stages of NGWAF.
