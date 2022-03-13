@@ -1,0 +1,25 @@
+requests~=2.23.0
+Flask~=0.10.1
+# Need v1 for waf
+Werkzeug~=1.0.1
+
+pandas== 1.2.4
+numpy==1.19.5
+nltk==3.5
+scikit_learn==0.23.2
+tensorflow
+tensorflow-estimator
+joblib
+
+# Needed for backend replacement model
+fastapi[all]
+python-multipart
+
+# Needed for caching
+redis==3.5.3
+
+# Needed for decoding
+ciphey
+
+
+itsdangerous==2.0.1

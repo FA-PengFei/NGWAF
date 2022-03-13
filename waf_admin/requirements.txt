@@ -1,0 +1,9 @@
+# Needed for retrain
+pandas== 1.2.4
+numpy==1.19.5
+nltk==3.5
+scikit_learn==0.23.2
+tensorflow
+tensorflow-estimator
+fastapi[all] 
+python-multipart
