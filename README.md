@@ -77,7 +77,7 @@ NGWAF replaces traditional rulesets with deep learning models to reduce the comp
 NGWAF adopts a novel architecture consisting an interactive and quarantine environment built to isolate potential hostile attackers. Unlike conventional WAFs which blocks upon detection, NGWAF diverts threat actors to emulated systems, trapping them to soften the impact of their malicious actions. The environment also act as a sinkhole to gather current attack methods, enabling the observation and collection of malicious data. These data can be used to further improve NGWAF's detection capability. 
 
 <p align="center">
-  <img src="/images/Detection.gif" width="600" height="375"/>
+  <img src="/images/Detection.gif" width="600" height="376"/>
   <br/>
   <i>NGWAF in action: Upon detection of SQL injection, NGWAF redirects to our quarantine environment, instead of dropping or blocking the attempt.</i>
 </p>
