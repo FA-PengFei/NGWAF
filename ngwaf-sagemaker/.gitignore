@@ -1,0 +1,13 @@
+pretrained
+lost+found
+_tmp
+**/.terraform/*
+**/terraform.tfstate
+**/terraform.tfstate.backup
+**/terraform.tfstate.*.backup
+**/.terraform.lock.*
+**/terraform.lock.*
+**/.DS_store
+**/terraform/lambda_packaged/*
+**/terraform/aws_creds.txt
+terraform/.terraform.tfstate.lock.info

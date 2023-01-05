@@ -1,0 +1,5 @@
+CREATE USER 'ngwafuser'@'%' IDENTIFIED BY 'ngwafpassword';
+CREATE DATABASE ngwaf;
+USE ngwaf;
+GRANT ALL PRIVILEGES ON ngwaf.* TO 'ngwafuser'@'%' WITH GRANT OPTION;
+FLUSH PRIVILEGES;

@@ -1,0 +1,6 @@
+- pipeline.id: ngwaf
+  path.config: "/usr/share/logstash/pipeline/ngwaf.conf"
+- pipeline.id: fastpot
+  path.config: "/usr/share/logstash/pipeline/fastpot.conf"
+- pipeline.id: drupot
+  path.config: "/usr/share/logstash/pipeline/drupot.conf"

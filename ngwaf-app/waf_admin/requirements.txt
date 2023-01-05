@@ -1,0 +1,12 @@
+# Needed for retrain
+pandas== 1.2.4
+numpy==1.19.5
+fastapi[all] 
+python-multipart
+boto3
+requests
+
+# Needed for caching
+redis==3.5.3
+SQLAlchemy==1.4.39
+mysqlclient==2.1.1

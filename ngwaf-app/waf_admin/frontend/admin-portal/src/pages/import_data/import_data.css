@@ -1,0 +1,36 @@
+.importdata {
+    display: flex;
+}
+
+.importdata .container {
+    flex: 6;
+}
+
+.dropzone {
+    color: black;
+    background: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    cursor: pointer;
+    height: 150px;
+    width: auto;
+    border: 2px dashed lightblue;
+    outline: none;
+}
+
+.dropzoneReject {
+    border: 2px dashed red;
+}
+.dropzoneAccept {
+    border: 2px dashed green;
+}
+
+.table {
+    border: 2px solid black;    
+    margin: 50px;
+    width: auto;
+    height: 245px;
+    overflow-y: scroll;
+}
