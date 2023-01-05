@@ -1,0 +1,6 @@
+.managedata {
+    display: flex;
+}
+.managedata .container {
+    flex: 6;
+}

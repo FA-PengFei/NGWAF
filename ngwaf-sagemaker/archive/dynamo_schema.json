@@ -1,0 +1,22 @@
+{
+	"job_key": "job-2022-01-01-01",
+	"status": "training",  // success, failure
+	"training_duration_sec": "293448", // N = seconds
+	"training_completion_time": "2022-01-01-01 12:34:23", // S
+	"model_name": "tensorflow-01-23-45",
+
+	// these are stats that are threshold invariant
+	"model_performance": {
+		"f1_score": 0.31,
+		"roc_auc_score": 0.21,
+	},
+
+	// for stats that alter by threshold
+	"model_diagnostics": { // map type
+		"thresholds": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6],
+		"accuracy": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6],
+		"precision": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6], // % of predicted +ve actually true
+		"recall": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6], // % of all true that predicted +ve
+		"fpr": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6], // false positive / all negative
+	}
+}

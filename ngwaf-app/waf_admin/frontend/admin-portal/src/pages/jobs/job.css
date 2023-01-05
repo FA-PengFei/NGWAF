@@ -1,0 +1,15 @@
+.text-success {
+    color: green;
+}
+
+.text-waiting {
+    color: darkorange;
+}
+
+.text-warning {
+    color: red;
+}
+
+.text-other {
+    color: darkgreen
+}

@@ -1,0 +1,11 @@
+filebeat.inputs:
+- type: log
+  enabled: true
+  # Change this to the directory of where your Zeek logs are stored
+  paths:
+    - /usr/share/honeypot/*.json
+  #json.keys_under_root: true
+  #fields_under_root: true
+
+output.logstash:
+  hosts: ["logstash:5045"]

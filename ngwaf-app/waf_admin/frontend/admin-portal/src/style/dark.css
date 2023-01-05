@@ -1,0 +1,87 @@
+.app.dark {
+    background-color: #222;
+    color: lightgray;
+}
+
+.app.dark .navbar {
+    color: lightgray;
+    border-color: #333;
+}
+
+.app.dark .navbar .search {
+    border-color: gray;
+}
+
+.app.dark .sidebar {
+    background-color: #222;
+    border-color: #333;
+}
+
+.app.dark .sidebar .top .logo {
+    color: #999;
+}
+
+.app.dark .sidebar hr {
+    border-color: #333;
+}
+
+.app.dark .sidebar ul li:hover {
+    background-color: #333;
+}
+/* 
+.app.dark button {
+    background-color: lightgray;
+    color: black;
+} */
+
+.app.dark button:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: darkgray;
+  color: lightgray;
+}
+
+.app.dark .dropzone {
+    color: lightgray;
+    background: rgb(41, 41, 41);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    cursor: pointer;
+    height: 150px;
+    width: auto;
+    border: 2px dashed lightblue;
+    outline: none;
+}
+
+.app.dark .table {
+    border: 2px solid lightgray;    
+    margin: 50px;
+    width: auto;
+    height: 245px;
+    overflow-y: scroll;
+}
+
+.app.dark .dropzoneReject {
+    border: 2px dashed red;
+}
+.app.dark .dropzoneAccept {
+    border: 2px dashed green;
+}
+
+.app.dark .react-grid-item.a.static.cssTransforms.react-resizable-hide.react-resizable {
+    background-color: #222;
+}
+
+.app.dark .react-grid-item.b.static.cssTransforms.react-resizable-hide.react-resizable {
+    background-color: #222;
+}
+
+.app.dark .highlight {
+    color: orange;
+}
+
+.app.dark .dropdown-slidedown {
+    background-color: #222;
+}

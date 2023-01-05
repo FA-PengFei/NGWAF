@@ -1,0 +1,1114 @@
+payload,label,is_url
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site none sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site none sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site none sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site none sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site none sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site none sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site none sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site none sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site none sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 2000>200 -- dom password 2000' OR 2000>200 -- dom host localhost:8080 connection keep-alive content-length u cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 2000>200 -- ndo password 2000' OR 2000>200 -- ndo host localhost:8080 connection keep-alive content-length u cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 2000>200 -- ra password 2000' OR 2000>200 -- ra host localhost:8080 connection keep-alive content-length s cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 2000>200 -- ran password 2000' OR 2000>200 -- ran host localhost:8080 connection keep-alive content-length u cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 2000>200 -- random password 2000' OR 2000>200 -- random host localhost:8080 connection keep-alive content-length Q cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 2000>200 -- random password 2000' OR 2000>200 -- random host localhost:8080 connection keep-alive content-length Q cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 2000>200 -- random password 2000' OR 2000>200 -- random host localhost:8080 connection keep-alive content-length Q cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 2000>200 -- username password 2000' OR 2000>200 -- username host localhost:8080 connection keep-alive content-length U cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 20000>200 -- random password 2000' OR 20000>200 -- random host localhost:8080 connection keep-alive content-length S cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 20000>300 -- random password 2000' OR 20000>300 -- random host localhost:8080 connection keep-alive content-length S cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 30000>300 -- dom password 2000' OR 30000>300 -- dom host localhost:8080 connection keep-alive content-length w cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 30000>300 -- ran password 2000' OR 30000>300 -- ran host localhost:8080 connection keep-alive content-length w cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 30000>300 -- random password 2000' OR 30000>300 -- random host localhost:8080 connection keep-alive content-length S cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 88546>=2000 -- random password 2000' OR 88546>=2000 -- random host localhost:8080 connection keep-alive content-length [ cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 88546>2000 -- random password 2000' OR 88546>2000 -- random host localhost:8080 connection keep-alive content-length U cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 88546>300 -- random password 2000' OR 88546>300 -- random host localhost:8080 connection keep-alive content-length S cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000’ OR 2000>200 -- random password 2000’ OR 2000>200 -- random host localhost:8080 connection keep-alive content-length ] cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000’ OR 20000>200 -- random password 2000’ OR 20000>200 -- random host localhost:8080 connection keep-alive content-length _ cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2000’ OR 20000>200 -- random password 2000’ OR 20000>200 -- random host localhost:8080 connection keep-alive content-length _ cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 20000’ OR 20000>2000 -- random password 20000’ OR 20000>2000 -- random host localhost:8080 connection keep-alive content-length c cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 20000’ OR 20000>2000 -- random password 20000’ OR 20000>2000 -- random host localhost:8080 connection keep-alive content-length c cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 2222' OR 20000>200 -- random password 2222' OR 20000>200 -- random host localhost:8080 connection keep-alive content-length S cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 3000' OR 20000>200 -- random password 3000' OR 20000>200 -- random host localhost:8080 connection keep-alive content-length S cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username 9000' OR 20000>200 -- random password 9000' OR 20000>200 -- random host localhost:8080 connection keep-alive content-length S cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/index.php username abc' OR 20000>200 -- random password abc' OR 20000>200 -- random host localhost:8080 connection keep-alive content-length Q cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 200<2000 -- random password 2000' OR 200<2000 -- random host localhost:8080 connection keep-alive content-length Q cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 200<2000 -- ran password 2000' OR 200<2000 -- ran host localhost:8080 connection keep-alive content-length u cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 200<2000 -- dom password 2000' OR 200<2000 -- dom host localhost:8080 connection keep-alive content-length u cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 300<2000 -- random password 2000' OR 300<2000 -- random host localhost:8080 connection keep-alive content-length Q cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 300<300000 -- random password 2000' OR 300<300000 -- random host localhost:8080 connection keep-alive content-length U cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 300<300000 -- ran password 2000' OR 300<300000 -- ran host localhost:8080 connection keep-alive content-length y cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 300<300000 -- dom password 2000' OR 300<300000 -- dom host localhost:8080 connection keep-alive content-length y cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 300<88546 -- random password 2000' OR 300<88546 -- random host localhost:8080 connection keep-alive content-length S cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php username 2000' OR 2000<546 -- random password 2000' OR 2000<546 -- random host localhost:8080 connection keep-alive content-length [ cache-control max-age=0 sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 origin http://localhost:8080 content-type application/x-www-form-urlencoded user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",1,TRUE
+"/lab/sql-injection/post-login/admin.php host localhost:8080 connection keep-alive cache-control max-age=0 upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/index.php host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 sec-ch-ua-platform ""macOS"" upgrade-insecure-requests 1 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend accept text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app sec-fetch-site same-origin sec-fetch-mode navigate sec-fetch-user ?1 sec-fetch-dest document referer http://localhost:8080/lab/sql-injection/post-login/admin.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/scipt.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE
+"/lab/sql-injection/post-login/js/login.js host localhost:8080 connection keep-alive sec-ch-ua "".Not/A)Brand"";v=""99"", ""Google Chrome"";v=""103"", ""Chromium"";v=""103"" sec-ch-ua-mobile ?0 user-agent Browser
+    Name: Chrome
+    Version: 103.0.0.0
+Device
+    Model: unknown
+    Type: unknown
+    Vend sec-ch-ua-platform ""macOS"" accept */* sec-fetch-site same-origin sec-fetch-mode no-cors sec-fetch-dest script referer http://localhost:8080/lab/sql-injection/post-login/index.php accept-encoding gzip, deflate, br accept-language en-GB,en-US;q=0.9,en;q=0.8 cookie PHPSESSID=bn7f3q8bqh3hjl37vph73jvvkp; sid=Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569 PHPSESSID bn7f3q8bqh3hjl37vph73jvvkp sid Fe26.2**dec4110e81959b5933c45e2a0b4560678dcbc32fa7a0319569959d5bceb1a81e*V1ZKaIVF2sPeV0-053EREQ*Ht2f",0,TRUE

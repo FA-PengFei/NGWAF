@@ -1,0 +1,6 @@
+.managemodel {
+    display: flex;
+}
+.managemodel .container {
+    flex: 6;
+}

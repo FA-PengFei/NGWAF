@@ -1,0 +1,75 @@
+.dashboard {
+    display: flex;
+}
+.dashboard .container {
+    flex: 6;
+}
+
+.dashboard .container .layout .a {
+    background-color: white;
+}
+
+.dashboard .container .layout .b {
+    background-color: white;
+}
+
+.highlight {
+    color: orange;
+}
+
+.main-columns {
+    display: flex;
+    flex-direction: row;
+}
+
+.main-column {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex: 1 1 1em;
+}
+
+.main-toggle {
+    margin: 0.5em 3em;
+}
+
+.pure-menu-list {
+    margin: 0.2em;
+}
+
+.narrative {
+    margin: 0.3em 0;
+}
+
+.dropdown-slidedown {
+    border: 1px solid gray;
+    border-radius: 4px;
+    width: 20em;
+    max-height: 40em;
+    background: whitesmoke;
+    overflow-y: auto;
+    transition-duration: 0.8s;
+    transition-timing-function: ease-in-out;
+}
+
+.dropdown-slidedown.overlay {
+    position: absolute;
+}
+
+.react-calendar__navigation { 
+    display: flex;
+    width: 600px;
+    max-width: 100%;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+}
+
+button.react-calendar__tile.react-calendar__month-view__days__day {
+    min-width: 44px;
+    font-size: 16px;
+    margin-top: 2px;
+}
+  

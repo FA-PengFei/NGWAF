@@ -1,0 +1,26 @@
+requests~=2.23.0
+fastapi==0.78.0
+uvicorn==0.17.6
+# Need to support web sockets
+uvicorn[standard]
+
+pandas== 1.2.4
+# numpy==1.19.5
+# numpy
+# nltk==3.5
+# scikit_learn==0.23.2
+# tensorflow
+# tensorflow-estimator
+joblib
+
+# Needed for backend replacement model
+fastapi[all]
+python-multipart
+
+# Needed for caching
+redis==3.5.3
+
+# Needed for decoding
+# ciphey
+
+# itsdangerous==2.0.1

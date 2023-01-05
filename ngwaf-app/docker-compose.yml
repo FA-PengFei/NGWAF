@@ -1,0 +1,203 @@
+version: "3.9"
+services:
+  waf_admin:
+    build: ./waf_admin
+    ports:
+      - "8088:8000"
+    volumes:
+      - datasets:/app/custom/data/
+      - waf_nas:/waf_shared/
+      - custom_honeypot:/custom_honey/
+    networks:
+      mlngwaf:
+    env_file:
+      - waf-admin-secrets.env
+    restart: always
+    environment: 
+      DEBIAN_FRONTEND: "noninteractive"
+      TZ: "Asia/Singapore"
+    security_opt:
+      - no-new-privileges:true
+
+  sqlserver:
+    build: ./sqlserver
+    networks:
+      mlngwaf:
+    restart: always
+    environment:
+      - MYSQL_RANDOM_ROOT_PASSWORD=TRUE
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysqlvolume:/var/lib/mysql
+    security_opt:
+      - no-new-privileges:true
+
+  vuln-lab:
+    image: yavuzlar/vulnlab:latest
+    networks:
+      mlngwaf:
+    security_opt:
+      - no-new-privileges:true
+
+  vuln-lab-honey:
+    image: walkgiraffe/vulnlabmodified:latest
+    networks:
+      mlngwaf:
+    security_opt:
+      - no-new-privileges:true
+
+  custom-honey:
+    build: ./fastpot/fastpotty
+    volumes:
+      - custom_honeypot:/custom_honey/
+      - honey_storage:/honey_store/
+    networks:
+      mlngwaf:
+    security_opt:
+      - no-new-privileges:true
+
+  custom-honey_filebeats:
+    build: ./fastpot_filebeats
+    volumes:
+      - honey_storage:/usr/share/honeypot/
+    networks:
+      mlngwaf:
+    security_opt:
+      - no-new-privileges:true
+
+  waf:
+    build: ./waf
+    ports:
+      - "8080:80"
+    volumes:
+      - waf_nas:/waf_shared/
+      - waf_logs:/waf/logs/
+    networks:
+      mlngwaf:
+    env_file:
+      - waf-secrets.env
+    restart: always
+    security_opt:
+      - no-new-privileges:true
+
+  waf_filebeat:
+    build: ./waf_filebeat
+    volumes:
+      - waf_logs:/usr/share/waflogs/
+    networks:
+      mlngwaf:
+    security_opt:
+      - no-new-privileges:true
+
+  cache:
+    build: ./cache
+    networks:
+      mlngwaf:
+    restart: always
+    security_opt:
+      - no-new-privileges:true
+
+  decode:
+    build: ./decode
+    networks:
+      mlngwaf:
+    restart: always
+    security_opt:
+      - no-new-privileges:true
+
+  drupot:
+    build: ./drupot
+    networks:
+      mlngwaf:
+    volumes:
+      - honeypot_logs:/app/logs/
+    ports:
+      - "5001:5000"
+    security_opt:
+      - no-new-privileges:true
+
+  drupot_filebeat:
+    build: ./drupot_filebeats
+    volumes:
+      - honeypot_logs:/usr/share/honeypot/
+    networks:
+      mlngwaf:
+    security_opt:
+      - no-new-privileges:true
+
+  elasticsearch:
+    build:
+      context: elasticsearch/
+    volumes:
+      - type: bind
+        source: ./elasticsearch/config/elasticsearch.yml
+        target: /usr/share/elasticsearch/config/elasticsearch.yml
+        read_only: true
+      - type: volume
+        source: elasticsearch
+        target: /usr/share/elasticsearch/data
+    environment:
+      ES_JAVA_OPTS: "-Xmx256m -Xms256m"
+      ELASTIC_PASSWORD: changeme
+      # Use single node discovery in order to disable production mode and avoid bootstrap checks.
+      # see: https://www.elastic.co/guide/en/elasticsearch/reference/current/bootstrap-checks.html
+      discovery.type: single-node
+    networks:
+      mlngwaf:
+    security_opt:
+      - no-new-privileges:true
+
+  logstash:
+    build:
+      context: logstash/
+    volumes:
+      - type: bind
+        source: ./logstash/config/logstash.yml
+        target: /usr/share/logstash/config/logstash.yml
+        read_only: true
+      - type: bind
+        source: ./logstash/pipeline
+        target: /usr/share/logstash/pipeline
+        read_only: true
+    environment:
+      LS_JAVA_OPTS: "-Xmx256m -Xms256m"
+    networks:
+      mlngwaf:
+    depends_on:
+      - elasticsearch
+    security_opt:
+      - no-new-privileges:true
+
+  kibana:
+    build:
+      context: kibana/
+    volumes:
+      - type: bind
+        source: ./kibana/config/kibana.yml
+        target: /usr/share/kibana/config/kibana.yml
+        read_only: true
+    ports:
+      - "5601:5601"
+    networks:
+      mlngwaf:
+    depends_on:
+      - elasticsearch
+    security_opt:
+      - no-new-privileges:true
+
+volumes:
+  esdata:
+    driver: local
+  elasticsearch:
+  honeypot_logs:
+  waf_logs:
+  datasets:
+  waf_nas:
+  mysqlvolume:
+  custom_honeypot:
+  honey_storage:
+
+networks:
+  mlngwaf:
+    driver: bridge
