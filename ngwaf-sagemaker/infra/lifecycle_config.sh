@@ -2,17 +2,6 @@
 
 set -ex
 
-# Set Python Environment
-if /usr/bin/python -c "import boto3" 2>/dev/null; then
-    PYTHON_DIR='/usr/bin/python'
-elif /usr/bin/python3 -c "import boto3" 2>/dev/null; then
-    PYTHON_DIR='/usr/bin/python3'
-else
-    # If no boto3 just quit because the script won't work
-    echo "No boto3 found in Python or Python3. Exiting..."
-    exit 1
-fi
-
 # Create Script to Stop Notebook
 # Taken from https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples
 STOP_NOTEBOOK_SCRIPT="/tmp/stop_notebook.py"
@@ -33,12 +22,13 @@ ssm_client.put_parameter(Name='ngwaf_should_notebook_start', Value='TRUE', Overw
 client.stop_notebook_instance(NotebookInstanceName=get_notebook_name())
 EOM
 
+python3 -m pip install boto3
 SHOULD_START=$(python3 -c 'import os; import boto3; ssm_client = boto3.client("ssm"); print(ssm_client.get_parameter(Name="ngwaf_should_notebook_start", WithDecryption=False)["Parameter"]["Value"])')
 
 if [ $SHOULD_START == "FALSE" ]; then
     # Do this as notebook state might not be ready state to stop
     # Check Every Minute and stop notebook if idle for 1 minute only on notebook creation
-    (crontab -l 2>/dev/null; echo "*/1 * * * * $PYTHON_DIR /tmp/stop_notebook.py") | crontab -
+    (crontab -l 2>/dev/null; echo "*/1 * * * * python3 /tmp/stop_notebook.py") | crontab -
 else
     sudo -u ec2-user -i <<'EOF'
     # PARAMETERS

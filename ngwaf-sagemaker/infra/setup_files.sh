@@ -27,17 +27,7 @@ download_file(ngwaf_notebook_script_bucket_name, 'diagnostic_utils.py', '/home/e
 
 EOM
 
-if /usr/bin/python -c "import boto3" 2>/dev/null; then
-    PYTHON_DIR='/usr/bin/python'
-elif /usr/bin/python3 -c "import boto3" 2>/dev/null; then
-    PYTHON_DIR='/usr/bin/python3'
-else
-    # If no boto3 just quit because the script won't work
-    echo "No boto3 found in Python or Python3. Exiting..."
-    exit 1
-fi
-
 mkdir -p /home/ec2-user/SageMaker/ngwaf-sagemaker/script
-$PYTHON_DIR /tmp/setup_files.py
+python3 /tmp/setup_files.py
 
 EOF

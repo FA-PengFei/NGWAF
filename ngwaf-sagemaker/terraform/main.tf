@@ -19,7 +19,7 @@ terraform {
 
 provider "aws" {
   region  = "ap-southeast-1"
-  profile = "<insert_aws_profile>"
+  profile = "<insert_aws_profile_here>"
 }
 
 # Store Variables in SSM Parameters
@@ -812,7 +812,8 @@ resource "aws_iam_policy" "lambda_sagemaker_retrain_policy_reduced" {
 resource "aws_iam_role" "sagemaker_notebook_role_reduced" {
     name = "sagemaker_notebook_role_terraform_reduced"
     managed_policy_arns = [
-        aws_iam_policy.sagemaker_notebook_policy_reduced.arn
+        aws_iam_policy.sagemaker_notebook_policy_reduced.arn,
+        "arn:aws:iam::aws:policy/CloudWatchLogsFullAccess"
         ]
 
     assume_role_policy = jsonencode({
