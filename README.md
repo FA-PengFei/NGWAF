@@ -1,5 +1,5 @@
 # N3XT-G3N Web App Firewall (NGWAF)
-
+### Project is no longer supported as of 2023
 *NGWAF is created by [@yupengfei](https://github.com/FA-PengFei), [@zhangbosen](https://github.com/duemaster), [@matthewng](https://github.com/matthewng1996) and [@elizabethlim](https://github.com/elizabeth-dsaid).*
 
 *Special shoutout to [@ruinahkoh](https://github.com/ruinahkoh) for her contributions to the initial stages of NGWAF.*
